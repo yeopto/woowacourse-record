@@ -17,6 +17,6 @@
 | Project | Period | Repository | 1단계 PR | 2단계 PR |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |자동차 경주 <br>|`2022-02-07` ~ `2022-02-13`|[Repository](https://github.com/woowacourse/javascript-racingcar/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/javascript-racingcar/pull/167)|[2단계 PR](https://github.com/woowacourse/javascript-racingcar/pull/207)|
-|로또 <br>|`2022-02-07` ~ `2022-02-13`|[Repository](https://github.com/woowacourse/javascript-lotto/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/javascript-lotto/pull/203)|[2단계 PR](https://github.com/woowacourse/javascript-lotto/pull/221)|
-|점심 뭐 먹지 <br>|`2022-02-07` ~ `2022-02-13`|[Repository](https://github.com/woowacourse/javascript-lunch/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/javascript-lunch/pull/17)|[2단계 PR](https://github.com/woowacourse/javascript-lunch/pull/71)|
-|영화 리뷰 <br>|`2022-02-07` ~ `2022-02-13`|[Repository](https://github.com/woowacourse/javascript-movie-review/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/javascript-movie-review/pull/45)|[2단계 PR](https://github.com/woowacourse/javascript-movie-review/pull/65)|
+|로또 <br>|`2022-02-14` ~ `2022-02-27`|[Repository](https://github.com/woowacourse/javascript-lotto/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/javascript-lotto/pull/203)|[2단계 PR](https://github.com/woowacourse/javascript-lotto/pull/221)|
+|점심 뭐 먹지 <br>|`2022-02-28` ~ `2022-03-13`|[Repository](https://github.com/woowacourse/javascript-lunch/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/javascript-lunch/pull/17)|[2단계 PR](https://github.com/woowacourse/javascript-lunch/pull/71)|
+|영화 리뷰 <br>|`2022-03-14` ~ `2022-03-27`|[Repository](https://github.com/woowacourse/javascript-movie-review/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/javascript-movie-review/pull/45)|[2단계 PR](https://github.com/woowacourse/javascript-movie-review/pull/65)|
