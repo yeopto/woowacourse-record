@@ -12,8 +12,6 @@
 |다리 건너기|`2021-11-16` ~ `2021-11-22`|[Repository](https://github.com/yeopto/javascript-bridge/tree/yeopto)|[PR](https://github.com/woowacourse-precourse/javascript-bridge/pull/10)|
 |점심 메뉴 추천|`2021-12-17` ~ `2021-12-17`|[Repository](https://github.com/yeopto/javascript-menu/tree/after_test)|[PR](https://github.com/woowacourse-precourse/javascript-menu/pull/103)|
 
-<br/>
-
 ## Level 1
 
 ### 미션
@@ -30,8 +28,6 @@
 - [this 바인딩](https://prolog.techcourse.co.kr/studylogs/2611)
 - [Proxy Pattern](https://prolog.techcourse.co.kr/studylogs/2790)
 - [Sync, Async & Blocking, Non-Blocking](https://prolog.techcourse.co.kr/studylogs/2941)
-
-<br/>
 
 ## Writing: 글쓰기 미션
 
