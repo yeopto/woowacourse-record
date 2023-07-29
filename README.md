@@ -38,7 +38,7 @@
 |점심 메뉴 <br>|`2023-04-11` ~ `2023-04-17`|[Repository](https://github.com/woowacourse/react-lunch/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/react-lunch/pull/34)|[2단계 PR](https://github.com/woowacourse/react-lunch/pull/56)|x|
 |페이먼츠 <br>|`2023-04-18` ~ `2023-05-08`|[Repository](https://github.com/woowacourse/react-payments/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/react-payments/pull/216)|[2단계 PR](https://github.com/woowacourse/react-payments/pull/241)|[3단계 PR](https://github.com/woowacourse/react-payments/pull/289)|
 |장바구니 <br>|`2023-05-09` ~ `2023-05-22`|[Repository](https://github.com/woowacourse/react-shopping-cart/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/react-shopping-cart/pull/186)|[2단계 PR](https://github.com/woowacourse/react-shopping-cart/pull/204)|x|
-|영화 리뷰 <br>|`2023-05-23` ~ `2023-06-05`|[Repository](https://github.com/woowacourse/react-shopping-cart-prod/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/117)|[2단계 PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/173)|x|
+|장바구니(협업) <br>|`2023-05-23` ~ `2023-06-05`|[Repository](https://github.com/woowacourse/react-shopping-cart-prod/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/117)|[2단계 PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/173)|x|
 
 ### 학습로그
 
