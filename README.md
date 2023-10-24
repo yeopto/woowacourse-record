@@ -5,12 +5,14 @@
 ### 미션
 
 | Project | Period | Repository |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 |온보딩|`2022-10-26` ~ `2022-11-01`|[Repository](https://github.com/yeopto/javascript-onboarding/tree/yeopto)|
 |숫자 야구|`2022-11-02` ~ `2022-11-08`|[Repository](https://github.com/yeopto/javascript-baseball/tree/yeopto)|
 |로또|`2022-11-09` ~ `2022-11-15`|[Repository](https://github.com/yeopto/javascript-lotto-precourse/tree/yeopto)|
 |다리 건너기|`2022-11-16` ~ `2022-11-22`|[Repository](https://github.com/yeopto/javascript-bridge/tree/yeopto)|
 |점심 메뉴 추천|`2022-12-17` ~ `2022-12-17`|[Repository](https://github.com/yeopto/javascript-menu/tree/after_test)|
+
+<br>
 
 ## Level 1: JavaScript / TypeScript
 
@@ -35,6 +37,8 @@
 - [this 바인딩](https://prolog.techcourse.co.kr/studylogs/2611)
 - [Proxy Pattern](https://prolog.techcourse.co.kr/studylogs/2790)
 - [Sync, Async & Blocking, Non-Blocking](https://prolog.techcourse.co.kr/studylogs/2941)
+
+<br>
 
 ## Level 2: React / TypeScript / Recoil
 
@@ -61,6 +65,8 @@
 - [Atom Effects 사용기](https://prolog.techcourse.co.kr/studylogs/3472)
 - [Virtual DOM](https://prolog.techcourse.co.kr/studylogs/3741)
 
+<br>
+
 ## Level 3: Team Project
 
 ### 기간
@@ -72,6 +78,8 @@
 | Project | Repository | Website |
 | :-----: | :--------: |:------: |
 | 하루스터디 | [haru-study](https://github.com/woowacourse-teams/2023-haru-study) | [사이트 📖](https://haru-study.com/) |
+
+<br>
 
 ## Level 4: In-Depth Web Programming, Team Project
 
@@ -89,6 +97,8 @@
 |레이아웃 컴포넌트 <br>|`2023-09-13` ~ `2023-10-03`|[Repository](https://github.com/woowacourse/layout-component/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/layout-component/pull/20)|[2단계 PR](https://github.com/woowacourse/layout-component/pull/79)|
 |프론트엔드 렌더링 방식 <br>|`2023-10-04` ~ `2023-10-23`|[Repository](https://github.com/woowacourse/frontend-rendering/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/frontend-rendering/pull/35)|[2단계 PR](https://github.com/woowacourse/frontend-rendering/pull/49)|
 
+<br>
+
 ## Writing: 글쓰기 미션
 
 | Level | Topic | Content |
@@ -97,6 +107,8 @@
 |2 <br>|자유주제|[커뮤니케이션 많이 해보세요! (부제: 내가 생각하는 좋은 커뮤니케이션)](https://github.com/yeopto/woowa-writing-5/blob/yeopto/level2.md)|
 |3 <br>|프로젝트 소개(팀 미션)|[효율적인 공부 방법을 원한다면? 하루스터디 📖](https://github.com/woosung1223/woowa-writing-5/blob/LEVEL-3/LEVEL3.md)|
 |4 <br>|내가 꿈꾸는 프로그래머로서의 삶|[내가 꿈꾸는 개발자로 사는 삶](https://github.com/yeopto/woowa-writing-5/blob/level4/level4.md)|
+
+<br>
 
 ## 테코톡: 학습한 내용 말하기로 공유하기
 
